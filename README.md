@@ -1,20 +1,20 @@
-# Android Project 4 - *Flixster+ Part2*
+# Android Project 4 - *Name of App Here*
 
 Submitted by: **Xiaoxiao Ma**
 
-**Flixster+ Part2** is a movie browsing app that allows users to browse ... [TODO] 
+**FlixsterPart2** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `movie/top_rated`
-- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [X] **Use Glide to load and display at least one image per entry**
-- [X] **Click on an entry to view specific details about that entry using Intents**
+- [x] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
+- [x] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [x] **Use Glide to load and display at least one image per entry**
+- [x] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Giphy Capture  
+GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
