@@ -2,7 +2,7 @@
 
 Submitted by: **Xiaoxiao Ma**
 
-**FlixsterPart2** is a movie browsing app that allows users to browse ... [TODO] 
+**FlixsterPart2** is a movie browsing app that allows users to browse top rated movie and its detailed information. 
 
 Time spent: **15** hours spent in total
 
